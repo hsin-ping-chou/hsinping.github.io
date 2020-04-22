@@ -1,0 +1,161 @@
+    * {box-sizing: border-box}
+    /* Set height of body and the document to 100% */
+    body{
+        background: #d3d4cc;
+        margin-top: 20px;
+        margin-right: 50px;
+        margin-left:50px;
+        margin-bottom: 50px;
+        font-family: Arial;
+    }
+    /*footer style*/
+    div.footer{
+      margin-top:  20px;
+      border: 2px #a29988 dashed;
+  }
+  div.head{
+    margin-bottom: 30px;
+    margin-left: 60px;
+}
+div.bodyhome{
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 700px;
+    height: 450px;
+    margin-top: 80px ;
+}
+table{
+    width: 450px;
+    height: 480px;
+}
+td{
+    width: 80px;
+    height:80px;
+}
+/* Style tab links */
+.tablink {
+    background-color: #656565;
+    font-weight: bold;
+    font-family: Comic Sans MS;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 25%;
+}
+.tablink:hover {
+    background-color: #777;
+}
+/* Style the tab content (and add height:100% for full page content) */
+.tabcontent {
+    color: black;
+    display: none;
+    padding: 100px 20px;
+    height: 100%;
+}
+.pic img{transform:scale(1,1);transition: all 1s ease-out;}
+.pic img:hover{transform:scale(1.2,1.2);}
+.pic1 {
+    position: relative;
+}
+.mask {
+    margin-left: 65.7px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 90px;
+    height: 150px;
+    background: rgba(101, 101, 101, 0.6);
+    color: #ffffff;
+    opacity: 0;
+}
+.mask h3 {
+    margin-top: 50px;
+    text-align: center;
+}
+.pic1 a:hover .mask {
+    opacity: 2;
+}
+.img1{
+    margin: auto;
+}
+#Home {background-color: #e0e5df;}
+#News {background-color: #e0e5df;}
+#Contact {background-color: #e0e5df;}
+#About {background-color: #e0e5df;}
+.image{
+    position: relative;
+    margin-top: 100px;
+}
+.image a{
+    display: block;
+    position:absolute;
+}
+.tab{
+    
+    margin-top:70px; 
+    border: 10px solid white;
+    
+    
+    border-collapse:collapse;
+    
+    border-style: dotted;
+    
+    color: white;
+    height: 670px;
+    
+    
+}
+.word{
+    position: absolute ;left:900px;top:85px;
+    font-size:25px;
+    color: white;
+    font-weight: bold;
+    font-family: 微軟正黑體;
+    background-color: #3D7878;
+    border-radius:20px;
+    width:325px;
+    height: 300px;
+    word-spacing: 10px;
+    line-height: 60px;
+    text-align:center;
+    display: inline-block;
+    height: auto;
+
+
+}
+.word2{
+    position: absolute ;left:900px;top:150px;
+    font-size:25px;
+    color: white;
+    font-weight: bold;
+    font-family: 微軟正黑體;
+    background-color: #3D7878;
+    border-radius:20px;
+    width:325px;
+    height: 300px;
+    word-spacing: 10px;
+    line-height: 60px;
+    text-align:center;
+    display: inline-block;
+    height: auto;
+}
+.imggg{
+    position: absolute ;left:700px;top:160px;
+}
+
+
+#gotop {
+    position: fixed;
+    border-radius: 60px;
+    right: 20px;
+    bottom: 30px;
+    padding: 10px 16px;
+    font-size: 40px;
+    background: rgba(228, 211, 211, 0.60);
+    color: black;
+    cursor: pointer;
+    z-index: 1000;
