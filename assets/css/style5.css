@@ -1,0 +1,39 @@
+
+  .tablediv{
+    margin-top: 60px;
+    margin-left: 70px;
+    margin-right: 70px;
+  }
+
+  table{
+    border: 8px outset #6b5152;
+    margin-left: 60px;
+    width: 1600px;
+    height: 200px;
+  }
+  .photo{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 700px;
+
+  }
+  .word{
+    text-align: left;
+    font-family: 標楷體;
+    font-size: 25px;
+    padding-left: 150px;
+  }
+  td{
+  border-bottom: 3px dashed gray;
+  }
+  .i{
+    border: 8px solid #008866;
+  }
+div.footer{
+  margin-top:  20px;
+  margin-left: 130px;
+  border: 2px #a29988 dashed;
+  width: 1600px;
+}
+
