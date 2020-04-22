@@ -6,20 +6,20 @@
   margin-left:50px;
   margin-bottom: 50px;
 }
-  .sub{
-    border: 3px dashed white;
-    width: 95px;
-    height: 45px;
-    border-radius: 80px;
-    color:
+.sub{
+  border: 3px dashed white;
+  width: 95px;
+  height: 45px;
+  border-radius: 80px;
+  color:
 
-  }
-  img.bala{
+}
+img.bala{
   animation: crescendo 1.5s alternate infinite ease-in;
-  }
-  @keyframes crescendo {
-    0%   {transform: scale(0.8);}
-    100% {transform: scale(1);}
+}
+@keyframes crescendo {
+  0%   {transform: scale(0.8);}
+  100% {transform: scale(1);}
 }
 .other{
   position: absolute;top: 320px; left: 350px;
@@ -33,166 +33,166 @@
 .otherfour{
   position: absolute;top: 300px; left: 1399px;
 }
-  .videooo{
-    border: 6px dashed white;
-    border-radius: 55px;
-  }
-  .videoooo{
-    border: 6px dashed white;
-    border-radius: 42px;
-  }
-  .videow{
-    position: absolute;top: 480px;left: 1000px;
-  }
-  .videoww{
-    position: absolute;top: 1220px;left: 1000px;
-  }
-  .chousocial{
-    position: absolute;left:870px;top: 250px;
-  }
-  .xinsocial{
-    position: absolute;left:120px;top:900px;
-  }
-  .yizhen{
-    position: absolute;left:880px;top:1580px;
-  }
-  .annru{
-    position: absolute;left:120px;top:2200px;
-  }
-  .ab{
-    position: relative;
-  }
+.videooo{
+  border: 6px dashed white;
+  border-radius: 55px;
+}
+.videoooo{
+  border: 6px dashed white;
+  border-radius: 42px;
+}
+.videow{
+  position: absolute;top: 480px;left: 1000px;
+}
+.videoww{
+  position: absolute;top: 1220px;left: 1000px;
+}
+.chousocial{
+  position: absolute;left:870px;top: 250px;
+}
+.xinsocial{
+  position: absolute;left:120px;top:900px;
+}
+.yizhen{
+  position: absolute;left:880px;top:1580px;
+}
+.annru{
+  position: absolute;left:120px;top:2200px;
+}
+.ab{
+  position: relative;
+}
 
-  .abc{ 
-    width: 500px;
-    height: 900px;
-    position: relative;top:20px;left: 120px;
-    width: 1500px;
-  }
-  .pp{
-    text-align: right;
-    width: 700px;
-  }
-  img.hh{
+.abc{ 
+  width: 500px;
+  height: 900px;
+  position: relative;top:20px;left: 120px;
+  width: 1500px;
+}
+.pp{
+  text-align: right;
+  width: 700px;
+}
+img.hh{
 
-    animation: frigh 1s infinite step-start;
-  }
-  @keyframes frigh {
-    0%{transform:rotate(0deg); }
-    25%{transform:rotate(2deg);}
-    75%{transform:rotate(-2deg);}
-    100%{transform:rotate(0deg);}
+  animation: frigh 1s infinite step-start;
+}
+@keyframes frigh {
+  0%{transform:rotate(0deg); }
+  25%{transform:rotate(2deg);}
+  75%{transform:rotate(-2deg);}
+  100%{transform:rotate(0deg);}
 }
 img.ho{
 
   animation: frigh 1s infinite step-start;
-  }
-  @keyframes frigh {
-    0%{transform:rotate(0deg); }
-    25%{transform:rotate(-3deg);}
-    75%{transform:rotate(0deg);}
-    100%{transform:rotate(3deg);}
+}
+@keyframes frigh {
+  0%{transform:rotate(0deg); }
+  25%{transform:rotate(-3deg);}
+  75%{transform:rotate(0deg);}
+  100%{transform:rotate(3deg);}
 }
 /*ＣＯＮＴＡＣＴ*/
- .ti{
-    margin-left: 130px;
-    margin-bottom: 10px;
-  }
-  .sub{
-    margin-left: 200px;
+.ti{
+  margin-left: 130px;
+  margin-bottom: 10px;
+}
+.sub{
+  margin-left: 200px;
 
-  }
-  .in{
-    padding-top: 10px;
-    padding-left: 130px;
-    width: 700px;
-    height: 600px;
-    background: rgb(236, 236, 233,0.6);
-    border-radius:10px;
-    margin-top: 50px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  input[type="text"]{
-    background:#FAFAEB;
-    padding:5px 15px; border:2px black solid;
-    cursor:pointer;
-    -webkit-border-radius: 5px;
-    border-radius: 5px; 
-  }
-  input[type="mail"]{
-    background:#FAFAEB;
-    padding:5px 15px; border:2px black solid;
-    cursor:pointer;
-    -webkit-border-radius: 5px;
-    border-radius: 5px; 
-  }
-  textarea {
-    margin-left: 29px;
-    background:#FAFAEB;
-    padding:5px 15px; border:2px black solid;
-    cursor:pointer;
-    -webkit-border-radius: 5px;
-    border-radius: 5px; 
-  }
+}
+.in{
+  padding-top: 10px;
+  padding-left: 130px;
+  width: 700px;
+  height: 600px;
+  background: rgb(236, 236, 233,0.6);
+  border-radius:10px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+input[type="text"]{
+  background:#FAFAEB;
+  padding:5px 15px; border:2px black solid;
+  cursor:pointer;
+  -webkit-border-radius: 5px;
+  border-radius: 5px; 
+}
+input[type="mail"]{
+  background:#FAFAEB;
+  padding:5px 15px; border:2px black solid;
+  cursor:pointer;
+  -webkit-border-radius: 5px;
+  border-radius: 5px; 
+}
+textarea {
+  margin-left: 29px;
+  background:#FAFAEB;
+  padding:5px 15px; border:2px black solid;
+  cursor:pointer;
+  -webkit-border-radius: 5px;
+  border-radius: 5px; 
+}
 /**/
 
 
 
 /*四格圖片的css*/
 .view img { 
-    transition: all 0.2s linear;
-    position: relative;
+  transition: all 0.2s linear;
+  position: relative;
 }
 .view .mask {
-    position: absolute;top: 0;left: 0;
-    opacity: 0;
-    background-color: rgb(236, 236, 234,0.7);
-    transition: all 0.4s ease-in-out;
-    width: 203px;
-    height: 236px;
+  position: absolute;top: 0;left: 0;
+  opacity: 0;
+  background-color: rgb(236, 236, 234,0.7);
+  transition: all 0.4s ease-in-out;
+  width: 203px;
+  height: 236px;
 }
 .view h2 {
-    color: while;
-    font-weight: bold;
-    margin-top: 30px;
-    transform: translateY(-100px);
-    opacity: 0;
-    transition: all 0.2s ease-in-out;
+  color: while;
+  font-weight: bold;
+  margin-top: 30px;
+  transform: translateY(-100px);
+  opacity: 0;
+  transition: all 0.2s ease-in-out;
 }
 .view p { 
-    
-    transform: translateY(00px);
-    opacity: 0;
-    transition: all 0.2s linear;
+
+  transform: translateY(00px);
+  opacity: 0;
+  transition: all 0.2s linear;
 }
 .view a.info{
-    font-family: Comic Sans MS;
-    opacity: 0;
-    transition: all 0.2s ease-in-out;
+  font-family: Comic Sans MS;
+  opacity: 0;
+  transition: all 0.2s ease-in-out;
 }
 .view:hover img { 
-    transform: scale(1.1);
+  transform: scale(1.1);
 } 
 .view:hover .mask { 
-    margin-top: 32px;
-    position: absolute;
-    opacity: 1;
+  margin-top: 32px;
+  position: absolute;
+  opacity: 1;
 
 }
 .view:hover h2,
 .view:hover p,
 .view:hover a.info {
-    opacity: 1;
-    transform: translateY(0px);
+  opacity: 1;
+  transform: translateY(0px);
 }
 .view:hover p {
-    margin-top: 20px;
-    transition-delay: 0.1s;
+  margin-top: 20px;
+  transition-delay: 0.1s;
 }
 .view:hover a.info {
-    margin-top: 40px;
-    transition-delay: 0.2s;
+  margin-top: 40px;
+  transition-delay: 0.2s;
 }
 /*四格css結束*/
 
@@ -245,7 +245,7 @@ div.bodyhome{
   margin-top: 55px;
   margin-bottom: 20px;
   margin-left: 50px;
-  width: 800px;
+  width: 700px;
 
 }
 /*footer style*/
@@ -276,8 +276,8 @@ div.action{
   width: 270px;
   height: 80px;
   animation: fright 1s infinite alternate;
-  }
-  @keyframes fright {
+}
+@keyframes fright {
   from {
     transform: scale(1,0.9);
   }
@@ -300,8 +300,8 @@ div.end{
   width: 290px;
   height: 80px;
   animation: fright 1s infinite alternate;
-  }
-  @keyframes fright {
+}
+@keyframes fright {
   from {
     transform: scale(1,0.9);
   }
@@ -311,7 +311,7 @@ div.end{
 }
 
 table.tu{
-  position: absolute;left: 1150px; top: 280px;
+  position: absolute;left: 1050px; top: 280px;
   margin-top: 50px;
   width: 600px;
   height: 600px;
@@ -321,7 +321,7 @@ td.tuu{
   height:100px;
 }
 img.borderr{
-    border: 8px solid white;
+  border: 8px solid white;
 }
 .word{
   color: white; 
