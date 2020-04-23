@@ -174,7 +174,7 @@ textarea {
 .view:hover img { 
   transform: scale(1.1);
 } 
-.view:hover .mask { 
+.view:hover .mask {   
   margin-top: 32px;
   position: absolute;
   opacity: 1;
