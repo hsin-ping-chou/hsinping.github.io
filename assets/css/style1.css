@@ -228,16 +228,16 @@ div.head{
 }
 /*people*/
 div.people{
-  position: absolute;left: 900px;top: 25px;
+  position: absolute;left: 950px;top: 25px;
 }
 div.peopletwo{
-  position: absolute;left: 1060px;top: 23px;
+  position: absolute;left: 1100px;top: 23px;
 }
 div.peoplethree{
-  position: absolute;left: 1240px;top: 0.5px;
+  position: absolute;left: 1290px;top: 0.5px;
 }
 div.peoplefour{
-  position: absolute;left: 1440px;top: 0.5px;
+  position: absolute;left: 1490px;top: 0.5px;
 }
 /*輪播style*/
 div.bodyhome{
